@@ -1,1 +1,2 @@
-> [gh-page](https://gusonkad.github.io/js_hw_09/)
+> [Food service webpage](https://gusonkad.github.io/github.io-js_hw_09/)
+ 
