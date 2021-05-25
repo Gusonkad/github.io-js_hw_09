@@ -1,2 +1,2 @@
-> [Food service webpage](https://gusonkad.github.io/github.io-js_hw_09/)
+> [Food service webpage](https://js-hw-09-io.netlify.app)
  
